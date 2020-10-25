@@ -1,0 +1,8 @@
+﻿Programı açtığınızda ilk önce oynamak istediğiniz oyun modunu Bilgisayar vs Bilgisayar
+							          Oyuncu vs Bilgisayar seçeneklerinden birini seçeceksiniz.
+Eğer Oyuncu vs Bilgisayar oyun modunu seçtiyseniz ekrana Oyuncu için isim/nickname girişi gelecektir.Girmeden oyun başlamaz.
+Eğer Bilgisayar vs Bilgisayar oyun modunu seçtiyseniz oyun başlar,
+Girdikten sonra kartlar dağıtılır.Bilgisayar ve Oyuncu birer kart seçerek kartları dövüştürür.Daha güçlü olan kart kazanır 
+ve kartın sahibine beş puan eklenir.Eğer iki oyuncunun seçtiği kardın gücü birbirine eşitse iki oyuncuya da beşer puan eklenir.
+Masadaki ve oyunculardaki kartlar bitene kadar oyun devam eder.
+Kartlar bittiğinde skoru rakibinden daha yüksek olan oyuncu karşılaşmayı kazanır.
