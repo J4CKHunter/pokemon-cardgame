@@ -1,4 +1,4 @@
-## pokemon card game
+## pokemon desktop card game with java
 
 Projede yapılması istenenler [dökümantasyon dosyasında](https://github.com/MelihYesilyurt/Pokemon-Kart-Oyunu-ProLab1-Proje2/blob/master/Proje.pdf) bulunabilir.
 
