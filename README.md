@@ -1,6 +1,6 @@
 ## pokemon desktop card game with java
 
-Projede yapılması istenenler [dökümantasyon dosyasında](https://github.com/J4CKHunter/pokemon-cardgame/blob/master/Proje.pdf) bulunabilir.
+Projede yapılması istenenler [dokümantasyon dosyasında](https://github.com/J4CKHunter/pokemon-cardgame/blob/master/Proje.pdf) bulunabilir.
 
 Projede gerçekleştirilen isterler ile ilgili detaylı açıklamalar [proje raporunun](https://github.com/J4CKHunter/pokemon-cardgame/blob/master/RAPOR.pdf) içerisindedir.
 
